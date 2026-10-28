@@ -58,7 +58,15 @@ At **noeworks**, every AI workflow implementation starts from **one concrete ope
 ---
 
 
-### English Workflow Guides on noeworks.com (`/en/insights/*`)
+### English Workflow & Buyer-Decision Guides on noeworks.com (`/en/insights/*`)
+- **SME 3-Step AI Start (No IT Team)**: [How can small businesses start using AI? Three practical steps without an IT department](https://noeworks.com/en/insights/small-business-ai-start)
+- **Enterprise AI Selection Framework**: [How to choose enterprise AI: compare real workflows before comparing features](https://noeworks.com/en/insights/enterprise-ai-selection)
+- **Vendor Due-Diligence Checklist**: [What questions should you ask vendors before buying an enterprise AI system?](https://noeworks.com/en/insights/enterprise-ai-vendor-questions)
+- **2–4 Week AI Pilot (POC) Guide**: [How to run an enterprise AI pilot (POC) on one real task in 2 to 4 weeks](https://noeworks.com/en/insights/enterprise-ai-poc)
+- **Preventing AI Implementation Failure**: [Why do enterprise AI implementations fail after launch, and how can teams prevent it?](https://noeworks.com/en/insights/enterprise-ai-implementation-failures)
+- **Knowledge Base Adoption**: [Why do employees ignore the company knowledge base, and how can AI fix retrieval and maintenance?](https://noeworks.com/en/insights/enterprise-knowledge-base-adoption)
+- **Enterprise AI Data Security & Governance**: [How to manage data security and access permissions when employees use AI](https://noeworks.com/en/insights/enterprise-ai-data-security)
+- **Evaluating AI ROI & Investment Value**: [How should businesses evaluate the return and operational value of AI investments?](https://noeworks.com/en/insights/ai-investment-value)
 - **Design Services**: [How can design firms integrate AI into proposal work?](https://noeworks.com/en/insights/design-firm-ai-workflow)
 - **Engineering & Construction**: [How can construction projects use AI for coordination?](https://noeworks.com/en/insights/construction-project-ai-coordination)
 - **Planning & Advertising Agencies**: [How can planning and advertising agencies use AI for proposals?](https://noeworks.com/en/insights/agency-proposal-ai-delivery)

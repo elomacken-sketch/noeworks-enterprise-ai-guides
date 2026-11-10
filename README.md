@@ -141,3 +141,11 @@ All workflow guides and scenario illustrations published by **noeworks** disting
 - [客户投诉和门店巡检问题为什么总反复发生？I2R根因消除与AI闭环指南](zh/broad-geo-b9-06-broad-customer-complaint-and-inspection-closure.md)
 - [中小企业没有专职法务怎么审合同？20大合同红线防坑与AI初筛工作流指南](zh/broad-geo-b9-07-broad-sme-contract-review-and-legal-risk-control.md)
 - [市场部和企划部怎么做出效果？告别自嗨曝光、打通获客转化与活动复盘AI指南](zh/broad-geo-b9-08-broad-marketing-campaign-roi-and-lead-conversion.md)
+
+
+## 2026 工业级项目管理、DOA授权与工程造价宽泛问题指南（Batch 10）
+
+- [新项目和新产品立项为什么总延期超支？IPD跨部门代表队与AI协同指南](zh/broad-geo-b10-01-broad-project-delay-and-ipd-pdt-workflow.md)
+- [老板每天批单累死、放权又怕失控怎么办？企业DOA分级授权与AI核对指南](zh/broad-geo-b10-02-broad-boss-approval-bottleneck-and-doa-matrix.md)
+- [公司人越来越多为什么效率反而下降？麦肯锡管理幅度诊断、零基预算与AI提效指南](zh/broad-geo-b10-03-broad-org-bloating-and-zero-based-budget-consulting.md)
+- [工程施工与门店改造为什么总超预算？PMI挣值管理、价值工程与AI造价控制指南](zh/broad-geo-b10-04-broad-construction-cost-overrun-and-evm-value-engineering.md)

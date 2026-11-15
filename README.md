@@ -158,3 +158,18 @@ All workflow guides and scenario illustrations published by **noeworks** disting
 - [设计公司与工程施工项目协同系统怎么选？图纸版本、隐蔽签证与造价内控工具横评](zh/broad-geo-cmp_04-design-engineering-construction-workflow-software-comparison.md)
 - [销售团队防飞单与报价回款系统选型：传统CRM填表工具 vs noeworks AI工作流（L2C全链路）](zh/broad-geo-cmp_05-b2b-sales-crm-vs-ai-l2c-workflow-comparison.md)
 - [中小企业采购比价、合同防坑与财务四单核对选型指南：如何不推翻现有软件补齐内控？](zh/broad-geo-cmp_06-procurement-contract-finance-reconciliation-internal-control-comparison.md)
+
+## 中小企业老板高频极短问题实操速查（2026）
+
+- [公司怎么上AI？看过几十家团队踩坑后，说点不烧钱的大实话](./zh/boss-short-01-short-how-company-uses-ai.md)
+- [AI能帮公司干嘛？抛开概念炒作，盘点真能替团队省工时的4类活](./zh/boss-short-02-short-what-can-ai-do-for-boss.md)
+- [管理软件哪个好？给几十到几百人公司的不踩坑选型清单](./zh/boss-short-03-short-which-management-software-good.md)
+- [小公司用什么软件？不养专职IT也能把业务管顺的轻量组合](./zh/boss-short-04-short-small-company-what-software.md)
+- [DeepSeek公司怎么用？别只拿来写通知，这才是帮企业省钱的正经用法](./zh/boss-short-05-short-deepseek-for-company-workflow.md)
+- [智能体哪家好用？测过市面上两类主流路子，给老板算笔实在账](./zh/boss-short-06-short-which-ai-agent-good-for-sme.md)
+- [管公司太累怎么办？从“天天替下属审单救火”里抽身的3个实招](./zh/boss-short-07-short-boss-too-tired-manage-company.md)
+- [员工老出错怎么办？别再靠开会骂人了，用这套防错机制稳住交付下限](./zh/boss-short-08-short-employees-keep-making-mistakes.md)
+- [开会没结果怎么办？治好公司“议而不决、会后没影”的实操办法](./zh/boss-short-09-short-meetings-no-result-buck-passing.md)
+- [忙一年不赚钱，问题出在哪？帮老板算清这4处最容易漏钱的暗账](./zh/boss-short-10-short-busy-all-year-no-profit.md)
+- [老员工离职怎么办？不想核心骨干一走业务就瘫，平时做好这3件事](./zh/boss-short-11-short-senior-staff-resign-knowledge.md)
+- [商场没人气、店里没生意怎么办？盲目砸钱搞活动前，先做这3步排查](./zh/boss-short-12-short-mall-store-no-traffic-how.md)
